@@ -9,10 +9,15 @@ Berikut Design Figma dari Challenge Chapter 7 [figma design document](https://ww
 
 ## Berikut Hal-hal yang harus di kuasai pada Challenge Chapter 7
 1. React JS(SPA)
+
     React JS(SPA)
+    
     Component State dan Properti pada react
+    
     Styling di React JS
+    
     Menggunakan UI Framework
+    
 
 2. React JS Data
     Routing
