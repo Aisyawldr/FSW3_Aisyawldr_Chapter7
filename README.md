@@ -21,26 +21,40 @@ Berikut Design Figma dari Challenge Chapter 7 [figma design document](https://ww
 
 2. React JS Data
     Routing
+    
     Data
+    
     HTTP Request
+    
     File Processing
+    
     Authentication
+    
     Middleware
+    
 
 3. Oauth
     Oauth
+    
     Google & Facebook Oauth
+    
 
 4. Redux
     State management
+    
     Redux
+    
     Implementation React + Redux
+    
     Redux thunk (Middleware)
+    
 
 
 ## Routes
-| Homepage | `/` | http://localhost:3000/ | Landing page for website. |
-| Search | `/cars` | http://localhost:3000/cars | Search car to rental. |
+    Homepage : http://localhost:3000/
+    
+    Search   : http://localhost:3000/cars
+    
 
 ## Cara Running Website
 
